@@ -1,0 +1,24 @@
+{
+  "name": "kulkarni-mani-server",
+  "version": "1.0.0",
+  "description": "This project containes all the code for Express server and Mongo DB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://manisk09@bitbucket.org/manisk09/kulkarni-mani-server.git"
+  },
+  "keywords": [
+    "server",
+    "assignment-three"
+  ],
+  "author": "Mani Shankar Kulkarni",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/manisk09/kulkarni-mani-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.1"
+  }
+}
