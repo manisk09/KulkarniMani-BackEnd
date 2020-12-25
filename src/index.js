@@ -55,4 +55,4 @@ app.post('/createQuery',  async (request, response) => {
     }
 });
 
-app.listen(8080, () => console.log('Kulkarni Mani Server is up..'))
+app.listen(8080, () => console.log('Kulkarni Mani Server is up'))
